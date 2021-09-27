@@ -1,0 +1,27 @@
+#footer_div {
+
+background-color: green;
+bottom: 0;
+text-align: center;
+height: 30px;
+width: 100%;
+font-size: 25px;
+font-family: ALGERIAN;
+color: yellow;
+}
+#note {
+    font-size: 18px;
+    color: black;
+}
+.heading {
+    font-size: 22px;
+    width: 100%;
+    margin: 0;
+    box-shadow: 6px 6px 16px black;
+    font-family: ALGERIAN;
+}
+canvas {
+    border: 2px black solid;
+    border-radius: 20px;
+    box-shadow: 6px 6px 16px darkgray;
+}
